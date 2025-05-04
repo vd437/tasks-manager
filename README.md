@@ -1,6 +1,6 @@
 # 📝 Task Manager - Simple Productivity App
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshot)
 
 A lightweight web-based task management application with user authentication and intuitive interface.
 
